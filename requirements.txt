@@ -5,3 +5,4 @@ pandas
 torch
 torchvision
 torchaudio
+Click!=8.0.0,>=7.0
